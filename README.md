@@ -1,5 +1,3 @@
 # tamouse.dev
 
-Nothing is here.
-
-Yet another domain I bought I don't know what to do with, but I couldn't live without.
+This site is managed via [Notion.so](https://notion.so) and [Fruition](https://fruitionsite.com/) on a [Cloudflare CDN](https://www.cloudflare.com/).
